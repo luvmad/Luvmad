@@ -2,7 +2,7 @@
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/CassouBrxn)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/luvmad)
 
 Hi, I'm **Madison**. I am a Lua developer from Spain..
 I do some works with **Lua** and **C**, contact me if you have some questions!
@@ -27,7 +27,7 @@ I do some works with **Lua** and **C**, contact me if you have some questions!
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=CassouBrxn&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=luvmad&&show_icons=true&theme=radical"/>
   </a>
 
 ## 🛠️ Skills
